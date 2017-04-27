@@ -36,3 +36,9 @@ A部分:
 00000000004004ed T _Z7averagePdRd
 
 B部分
+1 8
+4 8
+4 8
+8 8
+char的大小是1byte，int是4byte，float是4byte，double是8byte
+但是指標pointer的大小都是8byte。
